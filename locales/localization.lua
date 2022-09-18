@@ -82,7 +82,7 @@ if ( GetLocale() == "deDE" ) then
 	CENSUSPLUS_NIGHTELF = "Nachtelf";
 	CENSUSPlusFemale["Nachtelfe"] = "Nachtelf";
 
-	CENSUSPLUS_ORC = "Ork";
+	CENSUSPLUS_ORC = "Orc";
 	CENSUSPLUS_TAUREN = "Tauren";
 	CENSUSPLUS_TROLL = "Troll";
 	CENSUSPLUS_UNDEAD = "Untoter";
